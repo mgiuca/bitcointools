@@ -35,3 +35,4 @@ Scan all the transactions in the block chain and dump out a .csv file that shows
 Half-baked utility that reads a wallet.dat and writes out a new wallet.dat.
 
 Only half-baked because to be really useful I'd have to write serialize routines to re-pack data after modifying it...
+private key find true 
